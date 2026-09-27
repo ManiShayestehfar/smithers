@@ -1,8 +1,6 @@
-# Mathematical Project
+# Smithers
 
-A minimal, provider-neutral workspace for solo and collaborative mathematical research. Replace this title with your project name and complete [CONFIG.md](CONFIG.md).
-
-Mathematics lives in LaTeX; coordination lives in Markdown. No API keys, automation services, editor plugins, or programming language are required. A TeX installation is needed only to compile the writing.
+A minimal, safe, and genuinely collaborative mathematical research assistant. Smithers will help you be the best Mr. Burns version of your mathematical self...
 
 ## Start here
 
