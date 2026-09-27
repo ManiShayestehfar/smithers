@@ -1,0 +1,38 @@
+# Private sources, local notes, and disposable work
+/context/private/
+/scratch/
+/code/data/private/
+/code/generated/
+
+# Credentials and local environments
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+node_modules/
+
+# LaTeX build artifacts (do not ignore source PDFs globally)
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+/main.pdf
+/build/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Add project-specific source or generated-output exclusions below.
